@@ -64,7 +64,7 @@ That’s it — the game will launch instantly!
 
  - Add sound effects for clicks and wins.
 
-   Optimize for smaller mobile screens.
+- Optimize for smaller mobile screens.
 
  - Add dark/light theme toggle.
 

@@ -50,4 +50,13 @@ Whose turn is next
 
 A strike line appears for the corresponding winning pattern.
 
+## How to Run Locally
+
+Clone this repository
+```bash
+git clone https://github.com/yourusername/x0x-game.git
+
+```
+Open the index.html file in your browser.
+That’s it — the game will launch instantly!
 

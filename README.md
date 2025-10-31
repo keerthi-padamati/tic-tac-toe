@@ -14,4 +14,10 @@ It features a golden neon design, smooth animations, and dynamic strike effects 
 -  **Draw detection** — announces when no more moves are left.
 
 ---
+## Technologies Used
 
+- **HTML5** — game layout and structure.  
+- **CSS3** — styling, animations, and effects.  
+- **JavaScript (ES6)** — game logic and interactivity.
+
+---

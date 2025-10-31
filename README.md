@@ -54,7 +54,7 @@ A strike line appears for the corresponding winning pattern.
 
 Clone this repository
 ```bash
-git clone https://github.com/keertji-padamanti/x0x-game.git
+https://github.com/keerthi-padamati/tic-tac-toe.git
 
 ```
 Open the index.html file in your browser.

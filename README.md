@@ -60,11 +60,11 @@ git clone https://github.com/yourusername/x0x-game.git
 Open the index.html file in your browser.
 That’s it — the game will launch instantly!
 
-Future Improvements
+## Future Improvements
 
- Add sound effects for clicks and wins.
+ - Add sound effects for clicks and wins.
 
- Optimize for smaller mobile screens.
+   Optimize for smaller mobile screens.
 
- Add dark/light theme toggle.
+ - Add dark/light theme toggle.
 

@@ -16,7 +16,7 @@ https://keerthi-padamati.github.io/tic-tac-toe/
 Optimized for **GitHub Pages**.
 
 1. Create a GitHub repository  
-2. Upload `index.html`, `style.css`, `script.js`, and `xo_logo.jpg`  
+2. Upload `index.html`, `style.css`, `script.js`, and `XOX.jpg`  
 3. Enable GitHub Pages from **Settings → Pages**
 
 ## Tech Stack

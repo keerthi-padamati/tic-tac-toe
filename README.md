@@ -1,22 +1,25 @@
-#  Premium XOX Game (Unbeatable AI)
+#  Premium XOX Game
 
-A highly polished Tic-Tac-Toe game featuring a golden-black "Premium" theme and an unbeatable AI engine.
+A premium-styled Tic-Tac-Toe game with an unbeatable AI and smooth gameplay experience.
 
-##  Features
-- **Minimax AI Logic:** Perfectly calculated moves that never lose.
-- **Pass-n-Play Mode:** Play against a friend locally.
-- **High-End UI:** - Dynamic strike-through animations.
-  - Winner cell glow highlighting.
-  - Fully responsive for mobile devices.
-- **Smart Logic:** Automatic board reset when switching between AI and manual modes.
+##  Live Page
+https://keerthi-padamati.github.io/tic-tac-toe/
 
-##  Deployment
-This project is optimized for **GitHub Pages**.
+## Features
+- Unbeatable AI using Minimax algorithm  
+- Play vs AI or Pass-and-Play mode  
+- Premium gold & black UI  
+- Winning line animation and glow effects  
+- Fully responsive design  
 
-1. Create a new GitHub repository.
-2. Upload `index.html`, `style.css`, `script.js`, and `xo_logo.jpg`.
-3. Enable GitHub Pages in **Settings > Pages**.
+## Deployment
+Optimized for **GitHub Pages**.
 
-##  Tech
-- **HTML5 / CSS3** (Grid & Flexbox)
-- **Vanilla JavaScript** (Minimax Algorithm)
+1. Create a GitHub repository  
+2. Upload `index.html`, `style.css`, `script.js`, and `xo_logo.jpg`  
+3. Enable GitHub Pages from **Settings → Pages**
+
+## Tech Stack
+- HTML  
+- CSS  
+- JavaScript (Vanilla)
